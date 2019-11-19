@@ -1,0 +1,24 @@
+{
+  "name": "@joxtacy/prepend-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Simple plugin to prepend a comment in your bundled files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joxtacy/prepend-webpack-plugin.git"
+  },
+  "keywords": [
+    "prepend",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Jesper Hasselquist <jesper.hasselquist@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joxtacy/prepend-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Joxtacy/prepend-webpack-plugin#readme"
+}
